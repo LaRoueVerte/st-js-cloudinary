@@ -7,3 +7,11 @@ cloudinary_js is the library for using [Cloudinary](http://cloudinary.com/ "clou
 This bridge is based on the version 1.0.24 of cloudinary\_js. It may not map all available functions from cloudinary\_js.
 
 Contributing : All contributions are welcomed and can be made with a Pull Request.
+
+Available on maven central :
+
+    <dependency>
+    	<groupId>net.laroueverte.stjs.bridge</groupId>
+    	<artifactId>cloudinaryjs</artifactId>
+    	<version>1.0.24bv1</version>
+    </dependency>     
